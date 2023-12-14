@@ -1,3 +1,6 @@
 [submodule "battlearmordad"]
 	path = battlearmordad
 	url = https://sourcecode.social/reiver/twitter-battlearmordad
+[submodule "style"]
+	path = style
+	url = https://github.com/reiver/tweet-style
