@@ -10,3 +10,6 @@
 [submodule "shovnr"]
 	path = shovnr
 	url = https://github.com/reiver/twitter-shovnr
+[submodule "evolving_moloch"]
+	path = evolving_moloch
+	url = https://github.com/reiver/twitter-evolving_moloch
