@@ -7,3 +7,6 @@
 [submodule "timshinn73"]
 	path = timshinn73
 	url = https://github.com/reiver/twitter-timshinn73
+[submodule "shovnr"]
+	path = shovnr
+	url = https://github.com/reiver/twitter-shovnr
